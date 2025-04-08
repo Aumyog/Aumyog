@@ -21,7 +21,7 @@ I'm a Software Engineering student at the University of Waterloo, currently on t
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aychotal/)  
-- 📧 aychotal@uwaterloo.ca
+- [Email]aychotal@uwaterloo.ca
 
 ---
 
