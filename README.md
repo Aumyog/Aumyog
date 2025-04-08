@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey! I'm Aum 👋
 
-<!--
-**Aumyog/Aumyog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at the University of Waterloo, currently on the lookout for **Fall 2025 internships** in full-stack, mobile, or systems development.
 
-Here are some ideas to get you started:
+## 🚀 Tech I'm Comfortable With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, C/C++, JavaScript, HTML/CSS, Dart  
+**Frameworks:** Angular, React, Node.js, Express.js, Flutter  
+**Technologies & Tools:** Git, Firebase, Apache Kafka, MySQL, Arduino, Cypress, Jest, Figma
+
+## 🧠 Currently Exploring
+
+- Mobile app dev with **Flutter**
+- Deeper concepts in **database systems**, **data structures**, and **software design**
+
+## 🎯 Goals
+
+- Build impactful products with real-world use cases  
+- Keep learning and shipping cool stuff
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aychotal/)  
+- 📧 aychotal@uwaterloo.ca
+
+---
+
+Thanks for stopping by! Feel free to explore my projects — always open to cool ideas and new connections 😄
