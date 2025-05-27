@@ -6,7 +6,7 @@ I'm a Software Engineering student at the University of Waterloo, currently on t
 
 **Languages:** Python, C/C++, JavaScript, HTML/CSS, Dart  
 **Frameworks:** Angular, React, Node.js, Express.js, Flutter  
-**Technologies & Tools:** Git, Firebase, Apache Kafka, MySQL, Arduino, Cypress, Jest, Figma
+**Technologies & Tools:** Git, Firebase, Apache Kafka, MySQL, Arduino, Figma
 
 ## 🧠 Currently Exploring
 
